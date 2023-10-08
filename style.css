@@ -1,0 +1,36 @@
+
+body{
+    background-color:#FFFFFF; ;
+}
+h1{
+    color:white;
+}
+
+body{
+    background-color:#FFFFFF; ;
+}
+h1{
+    color:black;
+    font-family: "Press Start 2P"
+}
+p{
+    color:lightgreen;
+    border-style:outset;
+    border-width: 5px;
+    border-color: #70fabe;
+    font-family: "Press Start 2P" 
+    
+}
+mark{
+    background-color: blue;
+}
+
+button{
+    font-size:20px;
+    background-color:white;
+    border-color: rgb(67, 228, 67);
+    border-radius: 10px;
+    font-family: "Press Start 2P"
+    
+}
+
